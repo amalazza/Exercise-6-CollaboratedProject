@@ -1,2 +1,2 @@
-# Exercise-6-CollaboratedProject
-#This is Collaborated project
+# This is README.md file
+# it contains the information about project
